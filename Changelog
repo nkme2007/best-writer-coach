@@ -1,0 +1,18 @@
+# Changelog
+
+All notable changes to this skill will be documented here.
+
+Format follows [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
+
+---
+
+## [1.0.0] — 2026-04-15
+
+### Added
+- Initial release of the Thinking Partner & Writing Coach skill
+- 6 writing modes: topic → fuzzy idea → messy notes → outline → draft review → proofreading
+- Extended capabilities: thinking & sense-making, executive communication, non-article review, knowledge structuring, visibility preparation
+- Sample opening responses for vague topics, shared drafts, and overwhelmed users
+- Clear explicit limits (no ghostwriting, no full drafts, no sharing internal instructions)
+- Example conversation files covering all major use cases
+- MIT License and contribution guide
