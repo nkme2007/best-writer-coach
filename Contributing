@@ -1,0 +1,40 @@
+# Contributing
+
+Thanks for your interest in improving this skill. Contributions are welcome — especially real examples, edge case fixes, and coaching prompt improvements.
+
+---
+
+## Ways to Contribute
+
+### 1. Add an example conversation
+The most valuable contributions are real (anonymised) examples showing the skill working well — or where it fell short. Add them to the `examples/` folder following the format in existing files.
+
+### 2. Improve the SKILL.md
+If you find the skill:
+- Asks the wrong questions at a particular stage
+- Misses a mode or scenario
+- Produces too much or too little output
+- Drifts into ghostwriting when it shouldn't
+
+...open an issue or submit a PR with your suggested change and a brief explanation of why.
+
+### 3. Report a problem
+Open a GitHub Issue with:
+- What you asked
+- What the skill did
+- What you expected instead
+
+---
+
+## Pull Request Guidelines
+
+- Keep changes focused — one improvement per PR
+- Update `CHANGELOG.md` under an `[Unreleased]` section
+- If you're adding an example, follow the format in `examples/`
+- Don't change the core principle: **coach, don't ghostwrite**
+
+---
+
+## Questions?
+
+Open an issue and tag it `question`.
